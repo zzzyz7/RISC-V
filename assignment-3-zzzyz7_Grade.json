@@ -1,0 +1,95 @@
+{
+  "dot": {
+    "mark": 10,
+    "comment": "Program ran and output matched."
+  },
+  "argmax": {
+    "mark": 10,
+    "comment": "Program ran and output matched."
+  },
+  "relu": {
+    "mark": 10,
+    "comment": "Program ran and output matched."
+  },
+  "matmul": {
+    "mark": 10,
+    "comment": "Program ran and output matched."
+  },
+  "read_matrix": {
+    "mark": 10,
+    "comment": "Program ran and output matched."
+  },
+  "simple0-input0": {
+    "mark": 15,
+    "comment": "Program ran and output matched."
+  },
+  "simple0-input1": {
+    "mark": 15,
+    "comment": "Program ran and output matched."
+  },
+  "simple0-input2": {
+    "mark": 15,
+    "comment": "Program ran and output matched."
+  },
+  "simple1-input0": {
+    "mark": 15,
+    "comment": "Program ran and output matched."
+  },
+  "simple1-input1": {
+    "mark": 15,
+    "comment": "Program ran and output matched."
+  },
+  "simple1-input2": {
+    "mark": 15,
+    "comment": "Program ran and output matched."
+  },
+  "simple2-input0": {
+    "mark": 15,
+    "comment": "Program ran and output matched."
+  },
+  "simple2-input1": {
+    "mark": 15,
+    "comment": "Program ran and output matched."
+  },
+  "simple2-input2": {
+    "mark": 15,
+    "comment": "Program ran and output matched."
+  },
+  "mnist-input0": {
+    "mark": 40,
+    "comment": "Program ran and output matched."
+  },
+  "mnist-input1": {
+    "mark": 40,
+    "comment": "Program ran and output matched."
+  },
+  "mnist-input2": {
+    "mark": 40,
+    "comment": "Program ran and output matched."
+  },
+  "mnist-input3": {
+    "mark": 40,
+    "comment": "Program ran and output matched."
+  },
+  "mnist-input4": {
+    "mark": 40,
+    "comment": "Program ran and output matched."
+  },
+  "mnist-input5": {
+    "mark": 40,
+    "comment": "Program ran and output matched."
+  },
+  "mnist-input6": {
+    "mark": 40,
+    "comment": "Program ran and output matched."
+  },
+  "mnist-input7": {
+    "mark": 40,
+    "comment": "Program ran and output matched."
+  },
+  "mnist-input8": {
+    "mark": 40,
+    "comment": "Program ran and output matched."
+  },
+  "userid": "GithubID:assignment-3-zzzyz7"
+}
